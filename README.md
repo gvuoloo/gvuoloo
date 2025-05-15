@@ -7,6 +7,19 @@
   📫 Contacting me:
   https://www.linkedin.com/in/gustavovuolo/
 
+  [português]
+
+  👋 Olá, Github!
+  Me chamo Gustavo Vuolo. Sou de Cuiabá, mas vivo no Rio de Janeiro.
+
+  🔭 Sou formado em Arquitetura e Urbanismo pela UFRJ, porém em 2025 eu iniciei um plano antigo de transição de carreira, e iniciei a faculdade de Análise e Desenvolvimento de Sistemas na Faculdade SENAC RJ (março de 2025 - julho de 2027).
+  Juntar a minha carreira de arquitetura e meu futuro na área de T.I. é um desavio que eu estou vivendo, mas com muito ânimo!
+
+  📫 Se quiser entrar em contato comigo:
+  https://www.linkedin.com/in/gustavovuolo/
+
+  Abraços!
+
 <!---
 gvuoloo/gvuoloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
